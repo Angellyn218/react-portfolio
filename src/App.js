@@ -1,4 +1,5 @@
 import './App.css';
+import Footer from './components/Foooter';
 
 function App() {
   return(
@@ -6,7 +7,7 @@ function App() {
         {/* Add Header */}
         {/* Add Projects */}
         {/* Add Footer */}
-        <h1>This content is rendered on the page</h1>
+        <Footer/>
     </div>
 )
 }
