@@ -35,7 +35,7 @@ export default function Header() {
             <br/>
             <Contact/>
             <br/>
-            <Project/>
+            <Project title={"Project title"} description={"Description of Project"} image={"#"} alt={"Alt for project image"} deployed={"#"} github={"#"} />
         </div>
     )
 }
