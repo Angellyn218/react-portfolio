@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
+import Project from "./Project";
 
 export default function Header() {
     return (
@@ -33,6 +34,8 @@ export default function Header() {
             <About/>
             <br/>
             <Contact/>
+            <br/>
+            <Project/>
         </div>
     )
 }
