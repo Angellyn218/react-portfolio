@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
-import Project from "./Project";
+import Portfolio from "./pages/Portfolio";
 
 export default function Header() {
     return (
@@ -35,7 +35,7 @@ export default function Header() {
             <br/>
             <Contact/>
             <br/>
-            <Project title={"Project title"} description={"Description of Project"} image={"#"} alt={"Alt for project image"} deployed={"#"} github={"#"} />
+            <Portfolio/>
         </div>
     )
 }
