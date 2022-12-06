@@ -27,7 +27,7 @@ export default function Navigation() {
 
     return (
         <>
-            <nav className="navbar navbar-expand-lg navbar-light bg-light">
+            <nav className="navbar navbar-expand-lg ">
                 <ul className="navbar-nav">
                     <li className="nav-item">
                         <a 
