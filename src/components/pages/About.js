@@ -1,9 +1,11 @@
 import React from "react";
+import ProfilePicture from "../../assets/Profile-picture.jpg"
 
 export default function About() {
     return (
         <div className="page">
             <h1>About me</h1> 
+            <img src={ProfilePicture} className="profile" alt="profile" />
             <p>
                 Angel Cervantes is a student who was born and raised in the San Francisco Bay Area. She earned her GED at “Waldorf School of the Peninsula,” graduating in 2020, 
                 and started her studies at the “University of British Columbia” that same year. After realizing her love of web development, she took a year of school to focus 

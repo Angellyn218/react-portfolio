@@ -82,3 +82,9 @@ footer a {
     flex-wrap: wrap;
     justify-content: space-around;
 }
+
+.profile {
+    width: 20%;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
