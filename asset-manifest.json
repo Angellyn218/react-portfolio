@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.7263acf4.css",
-    "main.js": "/react-portfolio/static/js/main.5880ed5e.js",
+    "main.css": "/react-portfolio/static/css/main.17540262.css",
+    "main.js": "/react-portfolio/static/js/main.5206a0b1.js",
     "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/Chatorama.gif": "/react-portfolio/static/media/Chatorama.74e88a40af33eb0e46fb.gif",
     "static/media/ecommerce-back-end.png": "/react-portfolio/static/media/ecommerce-back-end.84d70a8ca07738f2f930.png",
@@ -9,12 +9,12 @@
     "static/media/tech-blog.png": "/react-portfolio/static/media/tech-blog.aa52387d75766b678959.png",
     "static/media/employee-tracker.png": "/react-portfolio/static/media/employee-tracker.45725fb170451a95479e.png",
     "index.html": "/react-portfolio/index.html",
-    "main.7263acf4.css.map": "/react-portfolio/static/css/main.7263acf4.css.map",
-    "main.5880ed5e.js.map": "/react-portfolio/static/js/main.5880ed5e.js.map",
+    "main.17540262.css.map": "/react-portfolio/static/css/main.17540262.css.map",
+    "main.5206a0b1.js.map": "/react-portfolio/static/js/main.5206a0b1.js.map",
     "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7263acf4.css",
-    "static/js/main.5880ed5e.js"
+    "static/css/main.17540262.css",
+    "static/js/main.5206a0b1.js"
   ]
 }
