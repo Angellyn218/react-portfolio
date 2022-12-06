@@ -5,6 +5,7 @@
     --page: #F0E6EF;
     --page-link: #f265a9;
     --contact-button: #f265a9;
+    --card-background: #EFC3E6;
 }
 
 .app {
@@ -64,8 +65,20 @@ footer a {
     
 }
 
-.btn {
+.btn-custom {
     border-radius: 5px;
     border: 10px solid var(--contact-button);
-    background-color: #f265a9;
+    background-color: var(--contact-button);
+}
+
+.card {
+    width: 50vh;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.portfolio {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
 }

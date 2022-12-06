@@ -58,11 +58,13 @@ export default function Portfolio() {
     return (
         <div className="page">
             <h1>Projects</h1>
-            {projects.map((item, i) => {
-                return (
-                    <Project key={i} title={item.title} tech={item.tech} image={item.image} alt={item.alt} deployed={item.deployed} github={item.github} />
-                )
-            })}
+            <div className="portfolio">
+                {projects.map((item, i) => {
+                    return (
+                        <Project key={i} title={item.title} tech={item.tech} image={item.image} alt={item.alt} deployed={item.deployed} github={item.github} />
+                    )
+                })}
+            </div>
         </div>
     )
 }
