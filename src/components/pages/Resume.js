@@ -4,7 +4,6 @@ export default function Resume() {
     return(
         <div className="page">
             <h1>Resume</h1>
-            <a href="#">Click to download my resume</a>
             <h3>Front End</h3>
             <ul>
                 <li>HTML</li>
@@ -21,6 +20,7 @@ export default function Resume() {
                 <li>MongoDB</li>
                 <li>Java</li>
             </ul>
+            <a href="#">Click to download my resume</a>
         </div>
     )
 }

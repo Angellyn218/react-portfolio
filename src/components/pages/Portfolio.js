@@ -1,12 +1,18 @@
 import React, { useState } from "react";
 import Project from "../Project";
+import ChatoramaImage from "../../assets/Chatorama.gif";
+import techBlogImage from "../../assets/tech-blog.png";
+import ecommerceBackEnd from "../../assets/ecommerce-back-end.png";
+import employeeTracker from "../../assets/employee-tracker.png";
+import noteTaker from "../../assets/note-taker.png";
+
 export default function Portfolio() {
     const [projects, setProjects ] = useState([
         // project 1
         {
             title: "Chatorama",
             tech: "Socket.io, Heroku",
-            image: "/assets/Chatorama.gif",
+            image: ChatoramaImage,
             alt: "Chatorama Login and enter chatroom",
             deployed: "https://morning-ridge-00973.herokuapp.com/",
             github: "https://github.com/KevinPXu/Chatorama",
@@ -15,7 +21,7 @@ export default function Portfolio() {
         {
             title: "Tech Blog",
             tech: "Squelize (ORM), Handlebars",
-            image: "/assets/tech-blog.png",
+            image: techBlogImage,
             alt: "Homepage of tech blog",
             deployed: "https://post-on-tech-blog.herokuapp.com",
             github: "https://github.com/Angellyn218/tech-blog",
@@ -24,7 +30,7 @@ export default function Portfolio() {
         {
             title: "E-Commerce Back End",
             tech: "Express.js, Sequlize & MySQL",
-            image: "/assets/ecommerce-back-end.png",
+            image: ecommerceBackEnd,
             alt: "Insomnia with get all categories response",
             deployed: "https://watch.screencastify.com/v/5fcVtETlqynYLnhvIN6s",
             github: "https://github.com/Angellyn218/ecommerce-back-end",
@@ -33,7 +39,7 @@ export default function Portfolio() {
         {
             title: "Employee Tracker",
             tech: "Node.js, Inquirer, MySQL",
-            image: "/assets/employee-tracker.png",
+            image: employeeTracker,
             alt: "Main menu of employee tracker",
             deployed: "https://watch.screencastify.com/v/uoKtnSGUeJfA9XZpnOYR",
             github: "https://github.com/Angellyn218/employee-tracker",
@@ -42,7 +48,7 @@ export default function Portfolio() {
         {
             title: "Note Taker",
             tech: "Express.js, Node.js, Heroku",
-            image: "/assets/note-taker.png",
+            image: noteTaker,
             alt: "Homepage of Note Taker",
             deployed: "https://we-take-notes.herokuapp.com",
             github: "https://github.com/Angellyn218/note-taker",
