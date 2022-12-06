@@ -4,11 +4,8 @@ import Header from './components/Header';
 
 function App() {
   return(
-    <div>
-        {/* Add Header */}
+    <div className="app">
         <Header/>
-        {/* Add Projects */}
-        {/* Add Footer */}
         <Footer/>
     </div>
 )

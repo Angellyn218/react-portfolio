@@ -1,1 +1,12 @@
+:root {
 
+}
+
+.app {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.navbar {
+    display: inline;
+}
