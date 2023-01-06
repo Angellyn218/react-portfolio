@@ -1,15 +1,18 @@
 :root {
     --banner: #B8BEDD;
+    --banner-light: #dce1fe;
+    --banner-dark: #a6afda;
     --footer: black;
     --footer-background: #B8BEDD;
-    --page: #F0E6EF;
+    --page: #fff8fe;
     --page-link: #f265a9;
     --contact-button: #f265a9;
     --card-background: #EFC3E6;
+    --profile-border: black;
 }
 
 .app {
-    background-color: var(--banner);
+    background-image: linear-gradient(90deg, var(--banner-dark), var(--banner-light), var(--banner-dark));
     height: 100vh;
 }
 
@@ -54,7 +57,7 @@ footer {
     justify-content: center;
     margin-left: auto;
     margin-right: auto;
-    background-color: var(--footer-background);
+    background-image: linear-gradient(90deg, var(--banner-dark), var(--banner-light), var(--banner-dark));
 }
 
 footer a {
@@ -84,7 +87,11 @@ footer a {
 }
 
 .profile {
+    display: block;
     width: 20%;
     margin-top: 5px;
     margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid var(--profile-border);
 }

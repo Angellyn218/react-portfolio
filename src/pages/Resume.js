@@ -1,4 +1,5 @@
 import React from "react";
+import myResume from "../assets/Angel-Cervantes-Resume.pdf"
 
 export default function Resume() {
     return(
@@ -20,7 +21,7 @@ export default function Resume() {
                 <li>MongoDB</li>
                 <li>Java</li>
             </ul>
-            <a href="#">Click to download my resume</a>
+            <a href={myResume} download="AngelCervantesResume">Click to download my resume</a>
         </div>
     )
 }

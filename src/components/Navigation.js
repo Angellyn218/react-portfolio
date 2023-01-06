@@ -1,8 +1,8 @@
 import React, { useState } from "react";
-import About from "./pages/About";
-import Contact from "./pages/Contact";
-import Portfolio from "./pages/Portfolio";
-import Resume from "./pages/Resume";
+import About from "../pages/About";
+import Contact from "../pages/Contact";
+import Portfolio from "../pages/Portfolio";
+import Resume from "../pages/Resume";
 
 export default function Navigation() {
     const [currentPage, setCurrentPage] = useState('About');
@@ -14,9 +14,9 @@ export default function Navigation() {
         if (currentPage === 'Portfolio') {
             return <Portfolio/>
         }
-        if (currentPage === 'Contact') {
-            return <Contact/>
-        }
+        // if (currentPage === 'Contact') {
+        //     return <Contact/>
+        // }
         if (currentPage === 'Resume') {
             return <Resume/>
         }
@@ -47,7 +47,7 @@ export default function Navigation() {
                             Portfolio
                         </a>
                     </li>
-                    <li className="nav-item">
+                    {/* <li className="nav-item">
                         <a 
                             className={currentPage === 'Contact' ?"nav-link active" : "nav-link"}
                             onClick={() => handlePageChange('Contact')}
@@ -55,7 +55,7 @@ export default function Navigation() {
                         >
                             Contact
                         </a>
-                    </li>
+                    </li> */}
                     <li className="nav-item">
                         <a 
                             className={currentPage === 'Resume' ?"nav-link active" : "nav-link"} 

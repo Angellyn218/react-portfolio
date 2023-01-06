@@ -46,6 +46,10 @@ front-end developer skills: https://bootcamp.ce.arizona.edu/blog/front-end-devel
 
 back-end developer skills: https://www.geeksforgeeks.org/back-end-developer-skills/ 
 
+downloadable pdf: https://stackoverflow.com/questions/364946/how-to-make-pdf-file-downloadable-in-html-link 
+
+link to email: https://www.tutorialspoint.com/html/html_email_links.htm 
+
 ## License
 
 Please refer to LICENSE in this repository
