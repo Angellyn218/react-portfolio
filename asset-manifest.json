@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.0f72b429.css",
-    "main.js": "/react-portfolio/static/js/main.78fbee3b.js",
+    "main.css": "/react-portfolio/static/css/main.c66b0a64.css",
+    "main.js": "/react-portfolio/static/js/main.e004bcbb.js",
     "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/Chatorama.gif": "/react-portfolio/static/media/Chatorama.74e88a40af33eb0e46fb.gif",
     "static/media/Profile-picture.jpg": "/react-portfolio/static/media/Profile-picture.378dcef3d043ebc40d43.jpg",
+    "static/media/homr.png": "/react-portfolio/static/media/homr.c7a7d20df75a03ce93b9.png",
     "static/media/ecommerce-back-end.png": "/react-portfolio/static/media/ecommerce-back-end.84d70a8ca07738f2f930.png",
-    "static/media/note-taker.png": "/react-portfolio/static/media/note-taker.5f316969717460a455d9.png",
-    "static/media/tech-blog.png": "/react-portfolio/static/media/tech-blog.aa52387d75766b678959.png",
+    "static/media/artaholics-gallery.jpg": "/react-portfolio/static/media/artaholics-gallery.d7b176bf2a01a12ab9d1.jpg",
     "static/media/employee-tracker.png": "/react-portfolio/static/media/employee-tracker.45725fb170451a95479e.png",
+    "static/media/Angel-Cervantes-Resume.pdf": "/react-portfolio/static/media/Angel-Cervantes-Resume.1f39f7b1f941d342a16e.pdf",
     "index.html": "/react-portfolio/index.html",
-    "main.0f72b429.css.map": "/react-portfolio/static/css/main.0f72b429.css.map",
-    "main.78fbee3b.js.map": "/react-portfolio/static/js/main.78fbee3b.js.map",
+    "main.c66b0a64.css.map": "/react-portfolio/static/css/main.c66b0a64.css.map",
+    "main.e004bcbb.js.map": "/react-portfolio/static/js/main.e004bcbb.js.map",
     "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f72b429.css",
-    "static/js/main.78fbee3b.js"
+    "static/css/main.c66b0a64.css",
+    "static/js/main.e004bcbb.js"
   ]
 }
