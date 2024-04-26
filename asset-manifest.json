@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.c66b0a64.css",
-    "main.js": "/react-portfolio/static/js/main.855dff9f.js",
+    "main.js": "/react-portfolio/static/js/main.9aa2a30f.js",
     "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/Chatorama.gif": "/react-portfolio/static/media/Chatorama.74e88a40af33eb0e46fb.gif",
     "static/media/Profile-picture.jpg": "/react-portfolio/static/media/Profile-picture.378dcef3d043ebc40d43.jpg",
@@ -12,11 +12,11 @@
     "static/media/Angel-Cervantes-Resume.pdf": "/react-portfolio/static/media/Angel-Cervantes-Resume.1f39f7b1f941d342a16e.pdf",
     "index.html": "/react-portfolio/index.html",
     "main.c66b0a64.css.map": "/react-portfolio/static/css/main.c66b0a64.css.map",
-    "main.855dff9f.js.map": "/react-portfolio/static/js/main.855dff9f.js.map",
+    "main.9aa2a30f.js.map": "/react-portfolio/static/js/main.9aa2a30f.js.map",
     "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c66b0a64.css",
-    "static/js/main.855dff9f.js"
+    "static/js/main.9aa2a30f.js"
   ]
 }
